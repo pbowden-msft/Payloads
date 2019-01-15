@@ -63,7 +63,7 @@
 		<key>/Library/Application Support/Microsoft/MAU2.0/Microsoft AutoUpdate.app</key>
 		<dict>
 			<key>Application ID</key>
-			<string>MSau03</string>
+			<string>MSau04</string>
 			<key>LCID</key>
 			<integer>1033</integer>
 		</dict>
