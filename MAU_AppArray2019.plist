@@ -81,6 +81,13 @@
 			<key>LCID</key>
 			<integer>1033</integer>
 		</dict>
+		<key>/Applications/Microsoft Defender ATP.app</key>
+		<dict>
+			<key>Application ID</key>
+			<string>WDAV00</string>
+			<key>LCID</key>
+			<integer>1033</integer>
+		</dict>
 	</dict>
 </dict>
 </plist>
