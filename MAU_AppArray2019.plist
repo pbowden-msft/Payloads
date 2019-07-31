@@ -88,6 +88,13 @@
 			<key>LCID</key>
 			<integer>1033</integer>
 		</dict>
+		<key>/Applications/Microsoft Edge.app</key>
+		<dict>
+			<key>Application ID</key>
+			<string>EDGE01</string>
+			<key>LCID</key>
+			<integer>1033</integer>
+		</dict>
 	</dict>
 </dict>
 </plist>
