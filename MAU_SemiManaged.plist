@@ -10,5 +10,7 @@
 	<true/>
 	<key>StartDaemonOnAppLaunch</key>
 	<false/>
+	<key>AcknowledgedDataCollectionPolicy</key>
+	<string>RequiredDataOnly</string>
 </dict>
 </plist>
