@@ -6,5 +6,7 @@
 	<string>AutomaticDownload</string>
 	<key>StartDaemonOnAppLaunch</key>
 	<true/>
+	<key>AcknowledgedDataCollectionPolicy</key>
+	<string>RequiredAndOptionalData</string>
 </dict>
 </plist>
