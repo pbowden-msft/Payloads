@@ -77,7 +77,7 @@
 		<key>/Applications/Microsoft Teams.app</key>
 		<dict>
 			<key>Application ID</key>
-			<string>TEAM01</string>
+			<string>TEAMS10</string>
 			<key>LCID</key>
 			<integer>1033</integer>
 		</dict>
